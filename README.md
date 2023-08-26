@@ -1,8 +1,10 @@
 
 # GIFSpark Universe
 
-Unleash the power of creativity with GIFGen Magic, your ultimate tool for generating endless streams of captivating and hilarious GIFs!
+Unleash the power of creativity with GIFSpark Universe, your ultimate tool for generating endless streams of captivating and hilarious GIFs!
+
 Key Features:
+
 1.Seamless GIF Generation: With a simple tap, GIFGen Magic conjures up a vast array of GIFs from its extensive library. 
 From cute animals to epic fails, the possibilities are boundless.
 
